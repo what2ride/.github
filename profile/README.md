@@ -5,7 +5,7 @@ Now with 83% more open-source greatness.
 
 ## What does this strange thing actually do?
 
-Good question mysterious internet text... *that I definitely didn't wrote myself... don't you dare to check the commit history...*
+Good question mysterious internet text... *that I definitely didn't write myself... don't you dare checking the commit history...*
 
 What2Ride is basically a platform to find the best way to get from somewhere to somewhere else.
 Type in the start and end of your journey and we do the rest. 😉
